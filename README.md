@@ -1,2 +1,2 @@
-# likable-design.github.io
+# likable-design
 A showcase of likable designs. 
